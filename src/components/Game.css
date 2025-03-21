@@ -1,0 +1,130 @@
+#contain-game {
+    color: rgb(222, 240, 217);
+    font-family: 'Trebuchet MS', sans-serif;
+    background: rgb(136, 136, 136);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    width: 1200px;
+    height: 600px;
+    border: 1px;
+    border-radius: 20px;
+}
+
+#contain-puntaje {
+    color: #d5daec;
+    background: rgb(118,105,120);
+    background: linear-gradient(90deg, rgba(118,105,120,1) 0%, rgba(93,69,97,1) 47%, rgba(118,11,119,1) 100%);
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#contain-jugadores {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+#contain-nom-jugadores {
+    color: rgb(239, 240, 237);
+    display: flex;
+    flex-direction: row;
+}
+
+.nom-jugador {
+    margin-left: 170px;
+}
+
+.nom-compu {
+    margin-left: 295px;
+}
+
+#jugadores {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#jugador {
+    background: rgb(129,164,215);
+    background: linear-gradient(198deg, rgba(129,164,215,1) 0%, rgba(180,174,177,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border: 1px;
+    border-radius: 50px;
+}
+
+#compu {
+    background: rgb(129,164,215);
+    background: linear-gradient(198deg, rgba(129,164,215,1) 0%, rgba(180,174,177,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border: 1px;
+    border-radius: 50px;
+}
+
+#result {
+    background: rgb(129,164,215);
+    background: linear-gradient(198deg, rgba(129,164,215,1) 0%, rgba(180,174,177,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border: 1px;
+    border-radius: 50px;
+}
+
+
+#contain-main-botones {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#contain-botones {
+    background-color: #E1E6F9;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-radius: 15px;
+}
+
+#conjunto_1 {
+    width: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 6px;
+}
+
+#conjunto_2 {
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6px;
+}
+
+#contain-footer-title {
+    
+    color: black;
+    display: flex;
+    justify-content: center;
+    height: 270px;
+    align-items: center;
+    margin-top: 119px;
+}
+
+
+
+
+
