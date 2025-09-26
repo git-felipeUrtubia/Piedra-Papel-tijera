@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <Game/>
+      <h1>Hola mundo</h1>
     </>
   )
 }
